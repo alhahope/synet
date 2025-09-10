@@ -1,4 +1,4 @@
-# SyNET
+# SyNET This is a executable vision of SyNET 
 
 SyNET is a system to synthesis network wide configurations given forwarding requirements.
 
