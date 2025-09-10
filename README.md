@@ -9,6 +9,7 @@ SyNET depends on the following packages
 0. Install `pip`: check your operating system specific instructions or (https://pip.pypa.io/en/stable/installing/).
 1. Reqs `pip install -r requirements.txt`
 2. z3 wih python bindings, see https://github.com/Z3Prover/z3
+3. python = 2.7
 
 
 ## Running SyNET
